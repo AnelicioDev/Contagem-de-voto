@@ -1,0 +1,4 @@
+ana, 10
+bruno, 4
+neymar, 6
+ana, 10
